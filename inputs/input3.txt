@@ -1,0 +1,11 @@
+fun void main()
+    var int i;
+    var int constantCalc;
+    i = 0;
+    while i < 5 do
+        constantCalc = 15 * 3 + 2; 
+        print(constantCalc + i);
+        i = i + 1
+    endwhile;
+    return(0)
+endfun

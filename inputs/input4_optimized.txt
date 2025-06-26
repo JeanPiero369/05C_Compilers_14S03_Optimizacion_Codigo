@@ -1,0 +1,19 @@
+fun int fac(int n)
+    if n < 2 then
+        return(n)
+    else
+        return(fac(n - 1) * n)
+    endif
+endfun
+
+fun void main()
+    var int j;
+    var int fixedvalue;
+        fixedvalue = 13;
+    j = 0;
+    while j < 4 do
+        print(fixedvalue * j);
+        j = j + 1
+    endwhile;
+    return(0)
+endfun

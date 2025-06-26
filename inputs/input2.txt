@@ -1,0 +1,10 @@
+fun void main()
+    var int x;
+    x = 5;
+    if (x == 1*4+10) then 
+        print(1)
+    else
+        print(0)
+    endif
+    return(0)
+endfun
