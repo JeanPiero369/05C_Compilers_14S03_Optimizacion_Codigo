@@ -1,0 +1,24 @@
+# Archivos generados por el optimizador
+*_optimized.txt
+*.s
+
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
+*.bak
+*~
+.#*
+
+# Carpetas de desarrollo (opcional)
+__pycache__
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Entorno virtual (si usas uno)
+venv/
+env/
+*.egg-info/
+build/
+dist/
