@@ -1,7 +1,9 @@
 # Archivos generados por el optimizador
 *_optimized.txt
 *.s
-
+*.exe
+*.out
+*.pdf
 
 # Archivos temporales o de sistema
 *.log
