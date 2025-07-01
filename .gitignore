@@ -11,7 +11,7 @@
 *.bak
 *~
 .#*
-
+*.zip
 # Carpetas de desarrollo (opcional)
 __pycache__
 *.pyc
